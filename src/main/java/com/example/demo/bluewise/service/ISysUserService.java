@@ -2,6 +2,7 @@ package com.example.demo.bluewise.service;
 
 import com.example.demo.bluewise.entity.SysUserEntity;
 import com.example.demo.common.dao.BaseRepository;
+import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.stereotype.Repository;
 
 /**
